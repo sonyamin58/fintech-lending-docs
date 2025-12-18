@@ -1,0 +1,12 @@
+[
+    {
+        "_id": "primary key",
+        "credit_score_id": "UUID",
+        "loan_id": "UUID",
+        "vendor_name": "VARCHAR(255)",
+        "raw_score": "encrypted jsonb",
+        "normalized_score": "jsonb",
+        "risk_level": "ENUM: low, medium, high",
+        "created_at": "TIMESTAMP"
+    }
+]

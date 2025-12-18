@@ -1,0 +1,11 @@
+1. Splash Screen
+Behavior:
+- Menampilkan logo / branding 2–3 detik
+- Mengecek access_token di local storage:
+Token valid → redirect ke Dashboard
+
+Token invalid / tidak ada → redirect ke Login Screen
+
+API Calls:
+
+None (local check)

@@ -1,0 +1,17 @@
+[
+    {
+        "_id": "primary key",
+        "user_id": "UUID",
+        "loan_id": "UUID",
+        "notification_category": "ENUM: loan, kyc, payment, other",
+        "notification_type": "ENUM: email, sms, push",
+        "notification_title": "VARCHAR(255)",
+        "notification_content": "TEXT",
+        "notification_link": "VARCHAR(255)",
+        "notification_status": "ENUM: pending, sent, failed",
+        "notification_sent_at": "TIMESTAMP",
+        "notification_failed_at": "TIMESTAMP",
+        "notification_read_at": "TIMESTAMP",
+        "created_at": "TIMESTAMP"
+    }
+]
