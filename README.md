@@ -11,16 +11,16 @@ Potential High Level User Story:
 
 Tugas Anda:
 1. Buatlah high level design architecture atas project mobile apps ini.
-    ![TDD](documents/projects/Mandiri DB - Fintech - TDD.pdf) ada document ini
+    ![TDD](documents/projects/Mandiri%20DB%20-%20Fintech%20-%20TDD.pdf) ada document ini
 2. Spesifikasikan design Screen Flow dan ERD atas rancangan yang ingin anda buat.
     ![list screen flow](static/image/Splash.png) 
 3. Buatlah detail design untuk API dengan menggunakan tools design seperti UML,ERD,flowchart,etc.
-    ![BRD](documents/projects/Mandiri DB - Fintech - BRD.pdf)
-    ![FSD](documents/projects/Mandiri DB - Fintech - FSD.pdf)
-    ![SRS](documents/projects/Mandiri DB - Fintech - SRS.pdf)
-    ![Flowchart](documents//Mandiri DB - Fintech - Flowchart.pdf)
-    ![ERD](database/Mandiri DB fintech - microservices.png)
+    ![BRD](documents/projects/Mandiri%20DB%20-Fintech%20-%20BRD.pdf)
+    ![FSD](documents/projects/Mandiri%20DB%20-Fintech%20-%20FSD.pdf)
+    ![SRS](documents/projects/Mandiri%20DB%20-Fintech%20-%20SRS.pdf)
+    ![Flowchart](documents//Mandiri%20DB%20-Fintech%20-%20Flowchart.pdf)
+    ![ERD](database/Mandiri%20DB%20fintech-%20microservices.png)
     ![SQL](database/import.sql)
 4. Buatlah detail design untuk screen behavior dari mobile apps berdasarkan screen flow diatas.
-    ![screen behavior apps](documents/projects/Mandiri DB - Fintech - Mobile Behavior.pdf)
+    ![screen behavior apps](documents/projects/Mandiri%20DB%20-%20Fintech%20-%20Mobile%20Behavior.pdf)
 
